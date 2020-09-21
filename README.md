@@ -18,4 +18,4 @@ The files that are outputed are the ones that you need to include in your HTML -
 
 ## Resources
 
-![Official Sass Docs](https://sass-lang.com/)
+[Official Sass Docs](https://sass-lang.com/)
