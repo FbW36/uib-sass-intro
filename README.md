@@ -6,7 +6,7 @@ Make sure you have installed Node, npm and [sass](https://www.npmjs.com/package/
 
 ## Run this project
 
-To compile Sass to Css run:
+To compile Sass to Css run in the terminal:
 
 ```
     sass sass:styles --watch
@@ -15,6 +15,8 @@ To compile Sass to Css run:
 This command specifies an entry folder (`sass`) and an output folder (`styles`).
 The output folder is not tracked in version control.
 The files that are outputed are the ones that you need to include in your HTML - browsers only understand CSS.
+
+In addition, start the live server from Visual Code to view the site.
 
 ## Resources
 
